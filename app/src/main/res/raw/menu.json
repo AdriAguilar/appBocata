@@ -1,0 +1,52 @@
+{
+  "lunes": {
+    "caliente": {
+      "nombre": "Bocadillo de Jamón y Queso",
+      "ingredientes": ["Pan", "Jamón Serrano", "Queso Manchego", "Tomate"]
+    },
+    "frio": {
+      "nombre": "Bocadillo de Atún",
+      "ingredientes": ["Pan", "Atún", "Lechuga", "Tomate", "Aceitunas"]
+    }
+  },
+  "martes": {
+    "caliente": {
+      "nombre": "Bocadillo de Pollo y Bacon",
+      "ingredientes": ["Pan", "Pollo a la plancha", "Bacon", "Queso Cheddar", "Mayonesa"]
+    },
+    "frio": {
+      "nombre": "Bocadillo de Jamón York y Queso",
+      "ingredientes": ["Pan", "Jamón York", "Queso Havarti", "Lechuga", "Tomate"]
+    }
+  },
+  "miercoles": {
+    "caliente": {
+      "nombre": "Bocadillo de Chistorra",
+      "ingredientes": ["Pan", "Chistorra", "Pimientos verdes"]
+    },
+    "frio": {
+      "nombre": "Bocadillo de Lomo",
+      "ingredientes": ["Pan", "Lomo embuchado", "Queso de cabra", "Tomate", "Aceitunas negras"]
+    }
+  },
+  "jueves": {
+    "caliente": {
+      "nombre": "Bocadillo de Pavo y Aguacate",
+      "ingredientes": ["Pan", "Pavo", "Aguacate", "Lechuga", "Mayonesa"]
+    },
+    "frio": {
+      "nombre": "Bocadillo de Atún y Cebolla",
+      "ingredientes": ["Pan", "Atún", "Cebolla morada", "Tomate", "Huevo duro"]
+    }
+  },
+  "viernes": {
+    "caliente": {
+      "nombre": "Bocadillo de Lomo y Pimientos",
+      "ingredientes": ["Pan", "Lomo de cerdo", "Pimientos de padrón", "Queso Manchego"]
+    },
+    "frio": {
+      "nombre": "Bocadillo de Roastbeef",
+      "ingredientes": ["Pan", "Roastbeef", "Lechuga", "Tomate", "Mostaza"]
+    }
+  }
+}
