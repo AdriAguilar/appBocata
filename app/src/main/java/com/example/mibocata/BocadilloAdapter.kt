@@ -43,6 +43,7 @@ class BocadilloAdapter(context: Context, menu: Menu): BaseAdapter() {
         if (dia == "Miercoles") {
             diaToShow = "Miércoles"
         }
+
         // Bocata caliente
         val bocadilloCaliente = bocadilloDia.caliente
 
